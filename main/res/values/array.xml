@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+        <item>@string/wednesday</item>
+        <item>@string/tuesday</item>
+        <item>@string/friday</item>
+        <item>@string/saturday</item>
+        <item>@string/sunday</item>
+    </string-array>
+    <string-array name="settingsFontStyle">
+        <item>@string/defaultfont</item>
+        <item>@string/monospace</item>
+        <item>@string/defaultbold</item>
+        <item>@string/sansserif</item>
+        <item>@string/serif</item>
+    </string-array>
+    <string-array name="settingsBackgroundColor">
+        <item>@string/transparent</item>
+        <item>@string/blue</item>
+        <item>@string/black</item>
+        <item>@string/green</item>
+        <item>@string/darkgray</item>
+        <item>@string/red</item>
+    </string-array>
+    <string-array name="settingsFontColor">
+        <item>@string/black</item>
+        <item>@string/blue</item>
+        <item>@string/white</item>
+        <item>@string/green</item>
+        <item>@string/darkgray</item>
+        <item>@string/red</item>
+    </string-array>
+</resources>

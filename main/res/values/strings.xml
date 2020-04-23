@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Course Timetable</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">saturday</string>
+    <string name="sunday">sunday</string>
+
+    <string name="defaultfont">default font</string>
+    <string name="monospace">monospace</string>
+    <string name="defaultbold">default bold</string>
+    <string name="sansserif">sans serif</string>
+    <string name="serif">serif</string>
+
+    <string name="transparent">transparent</string>
+    <string name="blue">blue</string>
+    <string name="black">black</string>
+    <string name="green">green</string>
+    <string name="darkgray">dark gray</string>
+    <string name="red">red</string>
+    <string name="white">white</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
